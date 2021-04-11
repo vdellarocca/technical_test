@@ -1,0 +1,535 @@
+c_as_of_date
+Min.   ,2020-01-13  
+1st Qu.,2020-05-02  
+Median ,2020-08-21  
+Mean   ,2020-08-22  
+3rd Qu.,2020-12-09  
+Max.   ,2021-04-01  
+c_pct_c_delayable
+Min.   ,-0.4517748  
+1st Qu.,-0.0092811  
+Median , 0.0021993  
+Mean   , 0.0001172  
+3rd Qu., 0.0172612  
+Max.   , 0.1460153  
+NA's   ,1  
+c_pct_c_social
+Min.   ,-0.3559849  
+1st Qu.,-0.0066466  
+Median , 0.0039579  
+Mean   , 0.0005513  
+3rd Qu., 0.0157263  
+Max.   , 0.1977744  
+NA's   ,1  
+c_pct_c_staple
+Min.   ,-0.365688  
+1st Qu.,-0.008006  
+Median , 0.002835  
+Mean   , 0.001594  
+3rd Qu., 0.013280  
+Max.   , 0.247257  
+NA's   ,1  
+c_pct_c_work_related
+Min.   ,-0.2860494  
+1st Qu.,-0.0045198  
+Median , 0.0027324  
+Mean   , 0.0002719  
+3rd Qu., 0.0098354  
+Max.   , 0.0793162  
+NA's   ,1  
+0
+0
+0
+0
+0
+-
+i_as_of_date
+Min.   ,2020-01-31  
+1st Qu.,2020-04-30  
+Median ,2020-07-31  
+Mean   ,2020-07-31  
+3rd Qu.,2020-10-31  
+Max.   ,2021-01-31  
+i_delayable
+Min.   , 66.20  
+1st Qu., 91.70  
+Median ,100.80  
+Mean   , 95.34  
+3rd Qu.,103.30  
+Max.   ,104.50  
+i_social
+Min.   ,  9.70  
+1st Qu., 33.00  
+Median , 56.70  
+Mean   , 55.48  
+3rd Qu., 77.20  
+Max.   ,103.20  
+i_staple
+Min.   , 75.90  
+1st Qu., 88.20  
+Median , 97.40  
+Mean   , 93.97  
+3rd Qu.,102.10  
+Max.   ,108.30  
+i_work_related
+Min.   , 64.70  
+1st Qu., 81.90  
+Median , 85.60  
+Mean   , 84.42  
+3rd Qu., 86.90  
+Max.   ,102.30  
+0
+0
+0
+0
+0
+-
+f_as_of_date
+Min.   ,2020-03-23  
+1st Qu.,2020-06-16  
+Median ,2020-09-10  
+Mean   ,2020-09-10  
+3rd Qu.,2020-12-04  
+Max.   ,2021-02-28  
+f_delayable
+Min.   ,0.08715  
+1st Qu.,0.15725  
+Median ,0.22299  
+Mean   ,0.24194  
+3rd Qu.,0.34062  
+Max.   ,0.45268  
+f_social
+Min.   ,0.3446  
+1st Qu.,0.4924  
+Median ,0.6775  
+Mean   ,0.6715  
+3rd Qu.,0.8655  
+Max.   ,0.9441  
+f_staple
+Min.   ,0.02146  
+1st Qu.,0.02996  
+Median ,0.04286  
+Mean   ,0.05020  
+3rd Qu.,0.07543  
+Max.   ,0.08827  
+f_work_related
+Min.   ,0.07725  
+1st Qu.,0.10410  
+Median ,0.12605  
+Mean   ,0.14894  
+3rd Qu.,0.20565  
+Max.   ,0.24860  
+0
+0
+0
+0
+0
+-
+e_as_of_quarter
+Min.   ,2019-03-31  
+1st Qu.,2019-09-07  
+Median ,2020-02-14  
+Mean   ,2020-02-14  
+3rd Qu.,2020-07-23  
+Max.   ,2020-12-31  
+e_delayable
+Min.   ,3788373  
+1st Qu.,3924279  
+Median ,4012476  
+Mean   ,3982573  
+3rd Qu.,4050968  
+Max.   ,4089430  
+e_social
+Min.   ,1471762  
+1st Qu.,1641575  
+Median ,1742374  
+Mean   ,1697357  
+3rd Qu.,1779751  
+Max.   ,1820685  
+e_staple
+Min.   ,4335309  
+1st Qu.,4382279  
+Median ,4459961  
+Mean   ,4445719  
+3rd Qu.,4516491  
+Max.   ,4518926  
+e_work_related
+Min.   ,1525691  
+1st Qu.,1551676  
+Median ,1558601  
+Mean   ,1561211  
+3rd Qu.,1574994  
+Max.   ,1592763  
+0
+0
+0
+0
+0
+-
+v_as_of_quarter
+Min.   ,2019-03-31  
+1st Qu.,2019-09-07  
+Median ,2020-02-14  
+Mean   ,2020-02-14  
+3rd Qu.,2020-07-23  
+Max.   ,2020-12-31  
+v_delayable
+Min.   ,0.800  
+1st Qu.,1.450  
+Median ,2.800  
+Mean   ,2.225  
+3rd Qu.,2.825  
+Max.   ,2.900  
+v_social
+Min.   ,0.400  
+1st Qu.,1.425  
+Median ,3.700  
+Mean   ,2.812  
+3rd Qu.,3.925  
+Max.   ,4.100  
+v_staple
+Min.   ,2.500  
+1st Qu.,3.100  
+Median ,3.300  
+Mean   ,3.163  
+3rd Qu.,3.400  
+Max.   ,3.400  
+v_work_related
+Min.   ,0.700  
+1st Qu.,1.825  
+Median ,2.250  
+Mean   ,2.062  
+3rd Qu.,2.400  
+Max.   ,2.800  
+0
+0
+0
+0
+0
+-
+d_as_of_date
+Min.   ,2020-03-04  
+1st Qu.,2020-06-10  
+Median ,2020-09-16  
+Mean   ,2020-09-16  
+3rd Qu.,2020-12-23  
+Max.   ,2021-03-31  
+d_delayable.x
+Min.   , 44.14  
+1st Qu., 61.48  
+Median , 87.22  
+Mean   , 84.53  
+3rd Qu.,100.53  
+Max.   ,155.01  
+NA's   ,120  
+d_social.x
+Min.   ,17.26  
+1st Qu.,44.26  
+Median ,56.38  
+Mean   ,52.73  
+3rd Qu.,62.71  
+Max.   ,98.97  
+NA's   ,120  
+d_staple.x
+Min.   , 82.14  
+1st Qu.,100.32  
+Median ,104.41  
+Mean   ,106.10  
+3rd Qu.,110.67  
+Max.   ,160.82  
+NA's   ,120  
+d_work_related.x
+Min.   , 34.06  
+1st Qu., 61.01  
+Median , 75.07  
+Mean   , 72.21  
+3rd Qu., 85.40  
+Max.   ,110.11  
+NA's   ,120  
+d_delayable.y
+Min.   ,0.08715  
+1st Qu.,0.15725  
+Median ,0.22299  
+Mean   ,0.24194  
+3rd Qu.,0.34062  
+Max.   ,0.45268  
+NA's   ,50  
+d_social.y
+Min.   ,0.3447  
+1st Qu.,0.4924  
+Median ,0.6775  
+Mean   ,0.6715  
+3rd Qu.,0.8655  
+Max.   ,0.9441  
+NA's   ,50  
+d_staple.y
+Min.   ,0.02146  
+1st Qu.,0.02996  
+Median ,0.04286  
+Mean   ,0.05020  
+3rd Qu.,0.07543  
+Max.   ,0.08827  
+NA's   ,50  
+d_work_related.y
+Min.   ,0.07725  
+1st Qu.,0.10410  
+Median ,0.12605  
+Mean   ,0.14894  
+3rd Qu.,0.20565  
+Max.   ,0.24860  
+NA's   ,50  
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-
+i_as_of_date
+Min.   ,2020-01-31  
+1st Qu.,2020-04-30  
+Median ,2020-07-31  
+Mean   ,2020-07-31  
+3rd Qu.,2020-10-31  
+Max.   ,2021-01-31  
+i_delayable
+Min.   , 66.20  
+1st Qu., 91.70  
+Median ,100.80  
+Mean   , 95.34  
+3rd Qu.,103.30  
+Max.   ,104.50  
+i_social
+Min.   ,  9.70  
+1st Qu., 33.00  
+Median , 56.70  
+Mean   , 55.48  
+3rd Qu., 77.20  
+Max.   ,103.20  
+i_staple
+Min.   , 75.90  
+1st Qu., 88.20  
+Median , 97.40  
+Mean   , 93.97  
+3rd Qu.,102.10  
+Max.   ,108.30  
+i_work_related
+Min.   , 64.70  
+1st Qu., 81.90  
+Median , 85.60  
+Mean   , 84.42  
+3rd Qu., 86.90  
+Max.   ,102.30  
+0
+0
+0
+0
+0
+-
+f_as_of_date
+Min.   ,2020-03-23  
+1st Qu.,2020-06-16  
+Median ,2020-09-10  
+Mean   ,2020-09-10  
+3rd Qu.,2020-12-04  
+Max.   ,2021-02-28  
+f_delayable
+Min.   ,0.08715  
+1st Qu.,0.15725  
+Median ,0.22299  
+Mean   ,0.24194  
+3rd Qu.,0.34062  
+Max.   ,0.45268  
+f_social
+Min.   ,0.3446  
+1st Qu.,0.4924  
+Median ,0.6775  
+Mean   ,0.6715  
+3rd Qu.,0.8655  
+Max.   ,0.9441  
+f_staple
+Min.   ,0.02146  
+1st Qu.,0.02996  
+Median ,0.04286  
+Mean   ,0.05020  
+3rd Qu.,0.07543  
+Max.   ,0.08827  
+f_work_related
+Min.   ,0.07725  
+1st Qu.,0.10410  
+Median ,0.12605  
+Mean   ,0.14894  
+3rd Qu.,0.20565  
+Max.   ,0.24860  
+0
+0
+0
+0
+0
+-
+e_as_of_quarter
+Min.   ,2019-03-31  
+1st Qu.,2019-09-07  
+Median ,2020-02-14  
+Mean   ,2020-02-14  
+3rd Qu.,2020-07-23  
+Max.   ,2020-12-31  
+e_delayable
+Min.   ,3788373  
+1st Qu.,3924279  
+Median ,4012476  
+Mean   ,3982573  
+3rd Qu.,4050968  
+Max.   ,4089430  
+e_social
+Min.   ,1471762  
+1st Qu.,1641575  
+Median ,1742374  
+Mean   ,1697357  
+3rd Qu.,1779751  
+Max.   ,1820685  
+e_staple
+Min.   ,4335309  
+1st Qu.,4382279  
+Median ,4459961  
+Mean   ,4445719  
+3rd Qu.,4516491  
+Max.   ,4518926  
+e_work_related
+Min.   ,1525691  
+1st Qu.,1551676  
+Median ,1558601  
+Mean   ,1561211  
+3rd Qu.,1574994  
+Max.   ,1592763  
+0
+0
+0
+0
+0
+-
+v_as_of_quarter
+Min.   ,2019-03-31  
+1st Qu.,2019-09-07  
+Median ,2020-02-14  
+Mean   ,2020-02-14  
+3rd Qu.,2020-07-23  
+Max.   ,2020-12-31  
+v_delayable
+Min.   ,0.800  
+1st Qu.,1.450  
+Median ,2.800  
+Mean   ,2.225  
+3rd Qu.,2.825  
+Max.   ,2.900  
+v_social
+Min.   ,0.400  
+1st Qu.,1.425  
+Median ,3.700  
+Mean   ,2.812  
+3rd Qu.,3.925  
+Max.   ,4.100  
+v_staple
+Min.   ,2.500  
+1st Qu.,3.100  
+Median ,3.300  
+Mean   ,3.163  
+3rd Qu.,3.400  
+Max.   ,3.400  
+v_work_related
+Min.   ,0.700  
+1st Qu.,1.825  
+Median ,2.250  
+Mean   ,2.062  
+3rd Qu.,2.400  
+Max.   ,2.800  
+0
+0
+0
+0
+0
+-
+d_as_of_date
+Min.   ,2020-03-04  
+1st Qu.,2020-06-10  
+Median ,2020-09-16  
+Mean   ,2020-09-16  
+3rd Qu.,2020-12-23  
+Max.   ,2021-03-31  
+d_delayable.x
+Min.   , 44.14  
+1st Qu., 61.48  
+Median , 87.22  
+Mean   , 84.53  
+3rd Qu.,100.53  
+Max.   ,155.01  
+NA's   ,120  
+d_social.x
+Min.   ,17.26  
+1st Qu.,44.26  
+Median ,56.38  
+Mean   ,52.73  
+3rd Qu.,62.71  
+Max.   ,98.97  
+NA's   ,120  
+d_staple.x
+Min.   , 82.14  
+1st Qu.,100.32  
+Median ,104.41  
+Mean   ,106.10  
+3rd Qu.,110.67  
+Max.   ,160.82  
+NA's   ,120  
+d_work_related.x
+Min.   , 34.06  
+1st Qu., 61.01  
+Median , 75.07  
+Mean   , 72.21  
+3rd Qu., 85.40  
+Max.   ,110.11  
+NA's   ,120  
+d_delayable.y
+Min.   ,0.08715  
+1st Qu.,0.15725  
+Median ,0.22299  
+Mean   ,0.24194  
+3rd Qu.,0.34062  
+Max.   ,0.45268  
+NA's   ,50  
+d_social.y
+Min.   ,0.3447  
+1st Qu.,0.4924  
+Median ,0.6775  
+Mean   ,0.6715  
+3rd Qu.,0.8655  
+Max.   ,0.9441  
+NA's   ,50  
+d_staple.y
+Min.   ,0.02146  
+1st Qu.,0.02996  
+Median ,0.04286  
+Mean   ,0.05020  
+3rd Qu.,0.07543  
+Max.   ,0.08827  
+NA's   ,50  
+d_work_related.y
+Min.   ,0.07725  
+1st Qu.,0.10410  
+Median ,0.12605  
+Mean   ,0.14894  
+3rd Qu.,0.20565  
+Max.   ,0.24860  
+NA's   ,50  
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-
